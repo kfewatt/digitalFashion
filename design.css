@@ -1,0 +1,20 @@
+.introduction{
+    background-image: url(designHeader.jpg);
+    background-size: cover;
+    padding: 15%;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-size: x-large;
+    text-align:right;
+}
+
+.intro{
+    text-align: center;
+    font-size: x-large;
+}
+
+.carousel-item{
+    padding: 5% 5%;
+    align-items: center;
+}
+
