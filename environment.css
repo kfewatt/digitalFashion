@@ -1,0 +1,48 @@
+.heading{
+    background-image: url(environmentImage.jpg);
+    background-size: cover;
+    padding: 15%;
+    color: white;
+    font-family: 'Orbitron', sans-serif;
+    font-size: x-large;
+}
+
+.title {
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    padding-top: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+h3 {
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    padding-bottom: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.row{
+    padding: 2% 5%;
+}
+
+.col-6{
+    text-align:justify ;
+}
+p{
+    text-align: center;
+    font-weight: 400;
+    font-size: x-large;
+}
+
+.introPara{
+    padding-bottom: 5%;
+    text-align: center;
+    font-size: large;
+}
+
+.stats{
+    padding: 5%;
+    text-align: center;
+    font-size: large;
+}
